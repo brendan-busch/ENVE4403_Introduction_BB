@@ -3,3 +3,4 @@ xarray
 numpy
 pandas
 scipy
+netcdf4
