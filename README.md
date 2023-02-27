@@ -21,4 +21,4 @@ After this, your Codespace (which contains all of the data in the repository) wi
 ## Jupyter Notebooks
 Jupyter Notebooks are a web-based interactive computational environment that allows you to run Python code, and display the results of your code in a format that is easy to read and understand. Throughout the semester I will provide you with Jupyter Notebooks that contain the code and instructions for each practical. You can run the code in the notebook, and then edit the code to try different things and see how it affects the results. You can also add your own code to the notebook to extend the analysis, or to try something new. You can also add text to the notebook to explain what you are doing, and to document your analysis. These notebooks are not assessed.
 
-To continue, click on the "Tutorial1_CSVs_&_NCs" folder.
+To continue, launch a codespace, and navigate to "Tutorial1_CSVs_&_NCs" and open "Tutorial1_CSVs_&_NCs.ipynb" notebook.
