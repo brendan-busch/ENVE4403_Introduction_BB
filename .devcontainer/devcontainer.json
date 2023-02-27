@@ -1,7 +1,8 @@
-20 lines (20 sloc)  420 Bytes
-
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "hostRequirements": {
+    "cpus": 2
+  },
   "waitFor": "onCreateCommand",
   "updateContentCommand": "python3 -m pip install -r requirements.txt",
   "postCreateCommand": "",
@@ -12,7 +13,8 @@
     "vscode": {
       "extensions": [
         "ms-toolsai.jupyter",
-        "ms-python.python"
+        "ms-python.python",
+        "ms-python.vscode-pylance"
       ]
     }
   }
